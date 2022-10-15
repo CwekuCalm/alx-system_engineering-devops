@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv ("NUM: %.2f\n" NUM)
+printf("number: %.2f\n", number)
