@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "Enter a decimal number:\n"
+printf ("NUM: %.2f\n" NUM);
